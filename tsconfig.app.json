@@ -21,5 +21,16 @@
     "erasableSyntaxOnly": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"]
+  
+  "include": [
+    "*.js",
+    "*.jsx",
+    "*.ts",
+    "*.tsx",
+    "**/*.js",
+    "**/*.jsx",
+    "**/*.ts",
+    "**/*.tsx"
+  ]
 }
+
